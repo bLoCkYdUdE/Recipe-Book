@@ -49,10 +49,3 @@ collections:
   recipes:
     output: true
     permalink: /recipes/:path/
-
-theme: minima
-
-# Add navigation links
-header_pages:
-  - index.md
-  - _pages/recipes.md

@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: default
 title: "Stove-top Rice"
 categories: [dinner, meal prep]
 tags: [rice, stir fry]

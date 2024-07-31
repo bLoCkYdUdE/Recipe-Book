@@ -1,5 +1,5 @@
 ---
-layout: recipe_index
+layout: default
 title: Recipes
 permalink: /recipes/
 ---
