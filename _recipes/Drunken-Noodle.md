@@ -1,7 +1,11 @@
 ---
 layout: default
 title: "Drunken Noodle"
-categories: [dinner]
+
+categories:
+- dinner
+- meal prep
+
 tags:
 - noodle
 - asian
