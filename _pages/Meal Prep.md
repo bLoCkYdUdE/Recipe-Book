@@ -10,6 +10,6 @@ permalink: /meal-prep/
 <ul>
   {% assign meal-prep_recipes = site.recipes | where: "categories", "Meal Prep" %}
   {% for recipe in meal-prep_recipes %}
-    <li><a href="{{ recipe.url }}">{{ recipe.title }}</a></li>
+    <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
   {% endfor %}
 </ul>
