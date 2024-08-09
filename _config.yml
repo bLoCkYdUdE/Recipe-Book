@@ -52,6 +52,3 @@ collections:
 
 include:
   - _pages
-
-baseurl: "/Recipe-Book" # the subpath of your site, e.g., /recipe-book
-url: "https://blockydude.github.io" # your GitHub Pages URL without the baseurl
