@@ -3,8 +3,8 @@ layout: default
 title: "Drunken Noodle"
 
 categories:
-- dinner
 - meal prep
+- dinner
 
 tags:
 - noodle
